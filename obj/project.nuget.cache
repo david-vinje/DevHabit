@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "kYJCnjtEvpw=",
+  "dgSpecHash": "LhYsvGCZW30=",
   "success": true,
   "projectFilePath": "/Users/davidvinje/Developer/DevHabit/DevHabit.Api/DevHabit.Api.csproj",
   "expectedPackageFiles": [
@@ -9,7 +9,11 @@
     "/Users/davidvinje/.nuget/packages/opentelemetry/1.19.1/opentelemetry.1.19.1.nupkg.sha512",
     "/Users/davidvinje/.nuget/packages/opentelemetry.api/1.19.1/opentelemetry.api.1.19.1.nupkg.sha512",
     "/Users/davidvinje/.nuget/packages/opentelemetry.api.providerbuilderextensions/1.19.1/opentelemetry.api.providerbuilderextensions.1.19.1.nupkg.sha512",
-    "/Users/davidvinje/.nuget/packages/opentelemetry.extensions.hosting/1.19.1/opentelemetry.extensions.hosting.1.19.1.nupkg.sha512"
+    "/Users/davidvinje/.nuget/packages/opentelemetry.exporter.opentelemetryprotocol/1.19.1/opentelemetry.exporter.opentelemetryprotocol.1.19.1.nupkg.sha512",
+    "/Users/davidvinje/.nuget/packages/opentelemetry.extensions.hosting/1.19.1/opentelemetry.extensions.hosting.1.19.1.nupkg.sha512",
+    "/Users/davidvinje/.nuget/packages/opentelemetry.instrumentation.aspnetcore/1.19.0/opentelemetry.instrumentation.aspnetcore.1.19.0.nupkg.sha512",
+    "/Users/davidvinje/.nuget/packages/opentelemetry.instrumentation.http/1.19.0/opentelemetry.instrumentation.http.1.19.0.nupkg.sha512",
+    "/Users/davidvinje/.nuget/packages/opentelemetry.instrumentation.runtime/1.19.0/opentelemetry.instrumentation.runtime.1.19.0.nupkg.sha512"
   ],
   "logs": []
 }
